@@ -1,0 +1,8 @@
+header {
+    background-color: purple;
+    border: solid black 3px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 50px;
+    color: aqua;
+}
