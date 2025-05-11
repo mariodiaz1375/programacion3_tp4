@@ -24,7 +24,8 @@ header > nav > a {
     color: aqua;
 }
 
-form {
+fieldset {
+    text-align: center;
     margin: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 10px;
@@ -33,6 +34,10 @@ form {
     border: solid purple 5px;
     width: fit-content;
     padding: 15px;
+}
+
+textarea {
+    display: inline-flex;
 }
 
 footer {
